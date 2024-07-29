@@ -19,3 +19,7 @@ This project is a simple app to understand how to use Prisma ORM with Next.js. T
 
 - Create a new model in the `schema.prisma` file
 - Run `npx prisma migrate dev` to create a new migration
+
+## Docs
+
+- For more information visit the [Prisma web site](https://www.prisma.io/docs/)
